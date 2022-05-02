@@ -1,0 +1,15 @@
+{
+  "name": "electron-33969",
+  "version": "1.0.0",
+  "description": "App for testing electron issue #33969",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Phillip Rak",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^18.2.0"
+  }
+}
